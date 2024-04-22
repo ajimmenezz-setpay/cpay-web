@@ -1,0 +1,4 @@
+RewriteEngine on
+
+RewriteRule ^inicio/?$ index.php
+RewriteRule ^login/?$ login.php
