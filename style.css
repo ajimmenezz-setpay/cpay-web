@@ -309,6 +309,14 @@ section{
   margin-top: 150px;
 }
 
+#main{
+  padding-bottom: 60px;
+}
+
+#interior{
+  padding: 60px 0px;
+}
+
 .bg-inicio{
   min-height: 800px;
 }

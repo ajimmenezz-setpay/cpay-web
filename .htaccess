@@ -1,4 +1,6 @@
 RewriteEngine on
 
 RewriteRule ^inicio/?$ index.php
+RewriteRule ^privacidad/?$ privacidad.php
+RewriteRule ^terminos/?$ terminos.php
 RewriteRule ^login/?$ login.php

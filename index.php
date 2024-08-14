@@ -45,7 +45,7 @@
 			<div class="row">
 				<div class="col-8 col-md-3">
 					<div class="logo">
-						<a href="index.php">
+						<a href="inicio">
 							<img src="img/logo.webp" alt="Central Pay" class="wow fadeIn" />
 						</a>
 					</div>
@@ -271,8 +271,11 @@
     </div>
     <div class="container copyright wow fadeIn">
       <div class="row">
-        <div class="col-md-6">&copy; 2024 Central Pay. Derechos Reservados.<br class="d-inline d-md-none" /> Design by <a href="https://www.3doubleu.com" target="_blank">&lt;3w&gt;</a></div>
-        <div class="col-md-6"></div>
+        <div class="col-md-6">&copy; 2024 Top System SAPI de CV. Derechos Reservados.<br class="d-inline d-md-none" /> Design by <a href="https://www.3doubleu.com" target="_blank">&lt;3w&gt;</a></div>
+        <div class="col-md-6 text-center text-md-right">
+          <a href="privacidad">Aviso de privacidad</a> &nbsp;&middot;&nbsp; 
+          <a href="terminos">Términos y condiciones</a>
+        </div>
       </div>
     </div>
   </section>
